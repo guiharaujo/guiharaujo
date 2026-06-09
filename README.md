@@ -30,31 +30,38 @@ I sit at the intersection of **business operations**, **financial analysis**, an
 
 ## 🚀 Featured Projects
 
-### 🏭 [S&OP GAS](https://github.com/guiharaujo/sop-gas) — Full-stack Supply Chain Planning Platform
-SaaS web platform for Sales & Operations Planning. Built with **React + FastAPI + Azure SQL**, deployed on Vercel + Render. Features demand forecasting (moving average, seasonality, ML regression), MRP with BOM explosion, stockout calendar, and multi-tenant architecture with JWT + 2FA auth.
+### 🏭 [S&OP GAS](https://github.com/guiharaujo/sop-gas) — Full-stack Supply Chain Planning SaaS
+Full-stack SaaS platform for Sales & Operations Planning. Built with **React + FastAPI + Azure SQL**, deployed on Vercel + Render. Features demand forecasting (moving average, seasonality, ML regression), MRP with BOM explosion, stockout calendar, and multi-tenant architecture with JWT + 2FA auth.
 
 `Python` `FastAPI` `React` `Azure SQL` `Vercel` `Render`
 
 ---
 
+### ⚡ [Vórtex](https://github.com/guiharaujo/vortex-demo) — ERP-Connected Supply Chain Planning Dashboard
+Streamlit dashboard pulling live data from SAP B1 (SQL Server) for PCP and S&OP teams. Features production capacity cascade with bottleneck detection, 52-week chronological stockout simulation, MRP with urgency scoring, S&OP scenario editor (3 scenarios), multi-level BOM explosion, and purchase approval workflow tracking.
+
+`Python` `Streamlit` `SAP B1` `pyodbc` `SQL Server` `Plotly`
+
+---
+
+### 📋 [cotacao-demo](https://github.com/guiharaujo/cotacao-demo) — Enterprise Excel VBA Quotation System
+Production-grade B2B quotation system built in Excel VBA, integrated with **Azure SQL** and a **CRM REST API**. Features role-based authentication, automated pricing engine (cost + taxes + freight + margin), Word proposal generation via COM automation, authority-level approval flow, and full audit logging.
+
+`Excel VBA` `Azure SQL` `ADODB` `Word COM` `REST API`
+
+---
+
 ### 📊 [FutebolBR](https://github.com/guiharaujo/FutebolBR) — ETL Pipeline: Brazilian Football Data
-End-to-end ETL pipeline pulling Série A data from API-Football, loading into SQL Server, and visualizing in Power BI. Demonstrates a full data engineering workflow: extraction → transformation → load → visualization.
+End-to-end ETL pipeline pulling Série A data from API-Football, loading into SQL Server, and visualizing in Power BI. Full data engineering workflow: extraction → transformation → load → visualization.
 
 `Python` `SQL Server` `Power BI` `ETL` `REST API`
 
 ---
 
 ### 🎮 [LeBron Dashboard](https://github.com/guiharaujo/lebron-dashboard) — NBA Stats App
-Streamlit app with live NBA stats for LeBron James' career. Demonstrates real-time API consumption, data transformation, and interactive visualization.
+Streamlit app with live NBA career stats. Demonstrates real-time API consumption, data transformation, and interactive visualization.
 
 `Python` `Streamlit` `NBA API` `Data Visualization`
-
----
-
-### 📋 [cotacao-demo](https://github.com/guiharaujo/cotacao-demo) — Enterprise Excel VBA Quotation System
-Production-grade quotation system built in Excel VBA, integrated with **Azure SQL** for centralized data and a **CRM REST API** for opportunity management. Features role-based authentication, automated pricing engine (cost + taxes + freight + margin), Word proposal generation via COM automation, and full audit logging.
-
-`Excel VBA` `Azure SQL` `ADODB` `Word COM` `REST API`
 
 ---
 
