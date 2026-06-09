@@ -23,6 +23,7 @@ I sit at the intersection of **business operations**, **financial analysis**, an
 
 **ERP & Integrations**
 ![SAP B1](https://img.shields.io/badge/SAP_B1-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Protheus](https://img.shields.io/badge/TOTVS_Protheus-E8151B?style=flat-square&logo=totvs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
