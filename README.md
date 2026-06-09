@@ -51,7 +51,7 @@ Streamlit app with live NBA stats for LeBron James' career. Demonstrates real-ti
 
 ---
 
-### 📋 [sx-cotacao-demo](https://github.com/guiharaujo/sx-cotacao-demo) — Enterprise Excel VBA Quotation System
+### 📋 [cotacao-demo](https://github.com/guiharaujo/cotacao-demo) — Enterprise Excel VBA Quotation System
 Production-grade quotation system built in Excel VBA, integrated with **Azure SQL** for centralized data and a **CRM REST API** for opportunity management. Features role-based authentication, automated pricing engine (cost + taxes + freight + margin), Word proposal generation via COM automation, and full audit logging.
 
 `Excel VBA` `Azure SQL` `ADODB` `Word COM` `REST API`
