@@ -1,4 +1,4 @@
-# Hi, I'm Guilherme Araújo 👋
+# Hi, I'm Guilherme Araujo 👋
 
 **Supply Chain & Data professional** with 10+ years in industrial planning (PCP/S&OP), currently working as a Controladoria & FP&A consultant — building the systems and dashboards I always wished existed.
 
