@@ -2,7 +2,7 @@
 
 **Supply Chain & Data professional** with 10+ years in industrial planning (PCP/S&OP), currently working as a Controladoria & FP&A consultant — building the systems and dashboards I always wished existed.
 
-I sit at the intersection of **business operations**, **financial analysis**, and **data engineering**. I don't just analyze data — I build the pipelines, automate the reports, and create the tools that make decisions faster.
+I sit at the intersection of **business operations**, **financial analysis**, and **data engineering**. I don't just analyze data — I build the pipelines, automate the reports, and create the tools that make decisions faster. Currently turning that experience into **Vetor**, a portfolio of SaaS products for Brazilian SMEs (PCP/MRP/S&OP planning and commercial BI).
 
 ---
 
@@ -17,6 +17,7 @@ I sit at the intersection of **business operations**, **financial analysis**, an
 
 **Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -30,17 +31,10 @@ I sit at the intersection of **business operations**, **financial analysis**, an
 
 ## 🚀 Featured Projects
 
-### 🏭 [S&OP GAS](https://github.com/guiharaujo/sop-gas) — Full-stack Supply Chain Planning SaaS
-Full-stack SaaS platform for Sales & Operations Planning. Built with **React + FastAPI + Azure SQL**, deployed on Vercel + Render. Features demand forecasting (moving average, seasonality, ML regression), MRP with BOM explosion, stockout calendar, and multi-tenant architecture with JWT + 2FA auth.
+### 📊 [Vetor Pulse (Demo)](https://github.com/guiharaujo/vetor-pulse-demo) — Multi-tenant Commercial BI SaaS
+Multi-CRM commercial BI platform for Brazilian sales teams. Built with **Django**, multi-tenant architecture, running in production on a dedicated VPS. This public repo is a sanitized demo version with fictional data — the production codebase and real client integrations are kept private.
 
-`Python` `FastAPI` `React` `Azure SQL` `Vercel` `Render`
-
----
-
-### ⚡ [Vórtex](https://github.com/guiharaujo/vortex-demo) — ERP-Connected Supply Chain Planning Dashboard
-Streamlit dashboard pulling live data from SAP B1 (SQL Server) for PCP and S&OP teams. Features production capacity cascade with bottleneck detection, 52-week chronological stockout simulation, MRP with urgency scoring, S&OP scenario editor (3 scenarios), multi-level BOM explosion, and purchase approval workflow tracking.
-
-`Python` `Streamlit` `SAP B1` `pyodbc` `SQL Server` `Plotly`
+`Python` `Django` `Multi-tenant` `PostgreSQL/SQLite` `Nginx`
 
 ---
 
@@ -65,10 +59,18 @@ Streamlit app with live NBA career stats. Demonstrates real-time API consumption
 
 ---
 
+### 🎬 [AnimeDash](https://github.com/guiharaujo/AnimeDash) & 🎮 [GameDash](https://github.com/guiharaujo/GameDash)
+Data visualization dashboards exploring anime and gaming datasets — smaller side projects for practicing ETL and dashboard design outside of work.
+
+`Python` `Streamlit` `Data Visualization`
+
+---
+
 ## 📈 Background
 
 - **10+ years** in industrial Supply Chain & PCP (including ~8 years at ITW, a Fortune 200 multinational)
 - Currently consulting on **Controladoria, FP&A, and process automation**
+- Building **Vetor**, a SaaS portfolio (Pulse, Supply, Chamados) for Brazilian SMEs
 - Building toward **Senior Data Engineer** — active certification roadmap: PL-300 → DP-900 → DP-203 → Databricks
 - **Green Belt** | **MBA in Logistics** | **Software Engineering** (in progress)
 
